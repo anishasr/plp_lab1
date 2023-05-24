@@ -48,7 +48,6 @@ After this, I was able to run C programs in VS Code.
 <br>You use the '//' characters. 
 
 ## Sources
-
 <br>https://www.freecodecamp.org/news/what-is-the-c-programming-language-beginner-tutorial/
 <br>https://www.w3schools.com/c/c_intro.php
 <br>https://code.visualstudio.com/docs/languages/cpp

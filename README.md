@@ -17,3 +17,14 @@ C was created in 1972 at Bell Labs by Dennis Ritchie.
 ### 4) Where will you get information about this language when it's time to start programming in it? ###
 <br>
 
+## 'Hello World' Program
+<br>
+ ```c 
+ #include <stdio.h>
+
+int main()
+{
+    printf("Hello, World!\n");
+    return 0;
+}```
+

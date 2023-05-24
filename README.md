@@ -49,7 +49,7 @@ After this, I was able to run C programs in VS Code.
 
 ## Sources
 
-https://www.freecodecamp.org/news/what-is-the-c-programming-language-beginner-tutorial/
-https://www.w3schools.com/c/c_intro.php
-https://code.visualstudio.com/docs/languages/cpp
-https://www.msys2.org/
+<br>https://www.freecodecamp.org/news/what-is-the-c-programming-language-beginner-tutorial/
+<br>https://www.w3schools.com/c/c_intro.php
+<br>https://code.visualstudio.com/docs/languages/cpp
+<br>https://www.msys2.org/

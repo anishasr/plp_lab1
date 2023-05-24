@@ -29,13 +29,16 @@ int main()
 
 1) What did you need to do to install the language? 
 <br><br> I found a very [helpful tutorial](https://code.visualstudio.com/docs/languages/cpp) within Visual Studio Code's official documentation. It walks through the set up of C/C++ for VS Code. 
-<br>Step 1: I installed the 'C/C++ extension' on VS Code.
-<br>Step 2: Then I had to install a compiler, 'MinGW'. I had to carefully follow the given installation instructions for this step.
-<br>Step 3: Once I had installed 'MinGW', I had to add the compiler to my Windows' path by going into Settings > Edit environment variables. Then I had to add the path 'C:\msys64\mingw64\bin'
-<br> After this, I was able to run C programs in VS Code.
-<br>
 
-2) Does this language come with a recommended programming environment? What is it? If not, how did you pick the one that you'll be using? 
+Step 1: I installed the 'C/C++ extension' on VS Code.
+
+Step 2: Then I had to install a compiler, 'MinGW'. I had to carefully follow the given installation instructions for this step.
+
+Step 3: Once I had installed 'MinGW', I had to add the compiler to my Windows' path by going into Settings > Edit environment variables. Then I had to add the path 'C:\msys64\mingw64\bin'
+
+After this, I was able to run C programs in VS Code.
+
+1) Does this language come with a recommended programming environment? What is it? If not, how did you pick the one that you'll be using? 
 <br><br>I have a Windows laptop and a Mac laptop. I chose to use my Windows device because I was having a hard time running the 'Hello World' program on my Mac. I'm not exactly sure what the specific problem was, but after several attempts I wasn't able to fix the issue. The setup was pretty seamless on my PC.
 
 1) How do you run programs in that language? 

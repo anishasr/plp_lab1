@@ -18,13 +18,13 @@ C was created in 1972 at Bell Labs by Dennis Ritchie.
 <br>
 
 ## 'Hello World' Program
-<br>
- ```c 
+ ```c
  #include <stdio.h>
 
 int main()
 {
     printf("Hello, World!\n");
     return 0;
-}```
+}
+```
 

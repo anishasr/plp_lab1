@@ -39,7 +39,7 @@ Step 3: Once I had installed 'MinGW', I had to add the compiler to my Windows' p
 After this, I was able to run C programs in VS Code.
 
 2) Does this language come with a recommended programming environment? What is it? If not, how did you pick the one that you'll be using? 
-<br><br>I have a Windows laptop and a Mac laptop. I chose to use my Windows device because I was having a hard time running the 'Hello World' program on my Mac. I'm not exactly sure what the specific problem was, but after several attempts I wasn't able to fix the issue. The setup was pretty seamless on my PC.
+<br>I have a Windows laptop and a Mac laptop. I chose to use my Windows device because I was having a hard time running the 'Hello World' program on my Mac. I'm not exactly sure what the specific problem was, but after several attempts I wasn't able to fix the issue. The setup was pretty seamless on my PC.
 
 3) How do you run programs in that language? 
 <br>Once the program is written, the file must be saved with the '.c' extension. The code must then be compiled (which is why I had to install MinGW!). The compiler compiles the code and produces an executable file than can be run. That file can be run from command line or an IDE like VS Code. 

@@ -47,3 +47,9 @@ After this, I was able to run C programs in VS Code.
 4) How do you write comments in your language? 
 <br>You use the '//' characters. 
 
+## Sources
+
+https://www.freecodecamp.org/news/what-is-the-c-programming-language-beginner-tutorial/
+https://www.w3schools.com/c/c_intro.php
+https://code.visualstudio.com/docs/languages/cpp
+https://www.msys2.org/
